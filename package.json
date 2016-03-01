@@ -1,0 +1,15 @@
+{
+  "name": "tempman",
+  "version": "1.0.0",
+  "description": "Template processing for nunjucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kennedy Idialu <kennedyidialu@gmail.com> (ncodes.wordpress.com)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "nunjucks": "^2.3.0"
+  }
+}
